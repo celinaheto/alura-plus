@@ -35,7 +35,7 @@ body {
 }
 
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--botao-azul-clique);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
@@ -145,6 +145,3 @@ body {
     color: var(--botao-azul);
 }
 
-.container__botao a:hover {
-    background-color: var(--botao-azul-clique);
-}
